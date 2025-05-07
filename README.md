@@ -5,5 +5,6 @@
 - `rigidity_dlmpc_controller.m` includes the rigid graph-based model predictive formation controller.
 
 
-**This code is for academic review purposes only. Unauthorized independent publication of research results is strictly prohibited.**   
+**~~This code is for academic review purposes only. Unauthorized independent publication of research results is strictly prohibited.~~**   
+The paper has been accepted and will be published in *IEEE Internet Things of Journal* shortly (DOI: 10.1109/JIOT.2025.3567996). 
 If you have any questions, please contact: fu_bowen@outlook.com
